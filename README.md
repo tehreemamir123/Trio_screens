@@ -1,7 +1,9 @@
 # trio_screens
 
-A new Flutter project.
 ![alt-image](https://github.com/tehreemamir123/Trio_screens/blob/5e97fa415e99955c025bf552cf2ce1f6fae1291f/trio.jpg)
+
+A new Flutter project.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
