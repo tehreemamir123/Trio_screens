@@ -1,7 +1,7 @@
 # trio_screens
 
 A new Flutter project.
-![alt-text](https://github.com/tehreemamir123/Trio_screens/blob/95e4532de9ffeb03a169036b4e76e5d4a6d9509f/trio.mp4)
+![alt-image](https://github.com/tehreemamir123/Trio_screens/blob/5e97fa415e99955c025bf552cf2ce1f6fae1291f/trio.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
